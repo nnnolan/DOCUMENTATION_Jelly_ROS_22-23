@@ -146,10 +146,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa51b1499ad50b3f",
+  "active": "6728df72b2c136ea",
   "lastOpenFiles": [
     "Documentation/test.md",
+    "Documentation/Markdown test.md",
     "Documentation/test2.md",
-    "Documentation/Hello, World!.md"
+    "test-scripts/USB-Camera/usb-camera-simple.py",
+    "test-scripts/USB-Camera/usb-camera-gst.py",
+    "test-scripts/USB-Camera/face-detect-usb.py",
+    "test-scripts/USB-Camera/README.md",
+    "test-scripts/USB-Camera/LICENSE",
+    "test-scripts/usb-camera-simple.py",
+    "test-scripts/readFromSerial.py",
+    "test-scripts/i2c_scan.py",
+    "test-scripts/hydrophone_test2.py",
+    "test-scripts/USB-Camera",
+    "test-scripts",
+    "catkin_ws/src/ms5837/src/README.md",
+    "catkin_ws/src/usb_cam/README.md",
+    "catkin_ws/src/usb_cam/AUTHORS.md",
+    "catkin_ws/src/ros-imu-bno055/README.md",
+    "catkin_ws/src/ms5837/README.md",
+    "catkin_ws/src/README.md",
+    "Documentation/Hello, World!.md",
+    "usb_cam/README.md",
+    "usb_cam/AUTHORS.md",
+    "ros-imu-bno055/README.md",
+    "ms5837/src/README.md",
+    "ms5837/README.md"
   ]
 }

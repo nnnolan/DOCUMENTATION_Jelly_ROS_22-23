@@ -2,3 +2,7 @@
 tags:
   - tests
 ---
+
+[[test2]]
+
+
