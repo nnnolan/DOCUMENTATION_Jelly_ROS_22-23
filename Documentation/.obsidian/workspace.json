@@ -4,31 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9dd5d876a1272dc2",
+        "id": "8c9a0d1e946f12e2",
         "type": "tabs",
         "children": [
           {
-            "id": "c8c5cb532581d2b5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "fdc3c34f825729c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hello, World!.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53b988e4d4ba5fbc",
+            "id": "4ae0f68404cc87d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -39,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,10 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53b988e4d4ba5fbc",
+  "active": "4ae0f68404cc87d8",
   "lastOpenFiles": [
-    "test.md",
+    "Hello, World!.md",
+    "test2 1.md",
+    "Markdown test.md",
     "test2.md",
-    "Hello, World!.md"
+    "test.md",
+    "Templates/Documentation Template.md",
+    "Templates"
   ]
 }
