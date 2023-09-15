@@ -13,11 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< Updated upstream
-                "file": "test2.md",
-=======
-                "file": "Templates/Documentation Template.md",
->>>>>>> Stashed changes
+                "file": "Template/Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Documentation Template.md",
+                "file": "Template/Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Documentation Template.md",
+                "file": "Template/Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Documentation Template.md"
+                "file": "Template/Template.md"
               }
             }
           }
@@ -152,21 +148,14 @@
   },
   "active": "4ae0f68404cc87d8",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
     "Hello, World!.md",
+    "Template/Template.md",
     "test2 1.md",
-    "Markdown test.md",
-    "test2.md",
     "test.md",
+    "test2.md",
+    "Template",
+    "Markdown test.md",
     "Templates/Documentation Template.md",
     "Templates"
-=======
-    "test2.md",
-    "test2 1.md",
-    "test.md",
-    "Templates/Documentation Template.md",
-    "Templates",
-    "Hello, World!.md"
->>>>>>> Stashed changes
   ]
 }
