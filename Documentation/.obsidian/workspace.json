@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Template.md",
+                "file": "Template/Object Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Template.md",
+                "file": "Template/Object Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/Template.md",
+                "file": "Template/Object Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/Template.md"
+                "file": "Template/Object Template.md"
               }
             }
           }
@@ -148,11 +148,11 @@
   },
   "active": "4ae0f68404cc87d8",
   "lastOpenFiles": [
-    "Hello, World!.md",
-    "Template/Template.md",
     "test2 1.md",
-    "test.md",
     "test2.md",
+    "test.md",
+    "Hello, World!.md",
+    "Template/Object Template.md",
     "Template",
     "Markdown test.md",
     "Templates/Documentation Template.md",
