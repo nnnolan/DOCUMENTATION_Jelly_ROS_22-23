@@ -2,7 +2,7 @@
 create_date: 
 tags:
 ---
-
+[]()
 ---
 # 🌊 {{ term }}
 

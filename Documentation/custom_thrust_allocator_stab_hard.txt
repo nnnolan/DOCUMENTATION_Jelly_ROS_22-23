@@ -1,0 +1,1 @@
+This is the document for custom_thrust_allocator_stab_hard.txt
